@@ -325,7 +325,7 @@
 "Settings_game_CrosshairMode_Hidden" "Ukryty"
 "Settings_Game_CrosshairScale" "Skala Celownika"
 "Settings_Game_T_Other" "Inne"
-"Settings_Game_DeveloperMode" "Tryb Developera"
+"Settings_Game_DeveloperMode" "Tryb Dewelopera"
 "Settings_Game_SaveScreenshots" "Gry Zapisu Screenshota"
 "Settings_Game_SaveScreenshots_Always" "Zawsze"
 "Settings_Game_SaveScreenshots_Never" "Nigdy"
